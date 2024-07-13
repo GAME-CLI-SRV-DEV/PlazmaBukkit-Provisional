@@ -20,5 +20,5 @@
 [main]: https://github.com/PlazmaMC/Plazma
 
 > [!IMPORTANT]
-This is the branch for Plazma 1.20.6. If you want to know more about Plazma, please check the **[main branch][main]**.<br>
-이곳은 플라즈마의 1.20.6용 분기입니다. 플라즈마에 대해 자세히 알고 싶다면 **[main 분기][main]** 를 확인해주세요.
+This is the TEMP branch for Plazma 1.21, which is only used to update Radioactive. If you want to know more about Plazma, please check the **[main branch][main]**.<br>
+이곳은 라디오액티브를 업데이트하는데 사용되는 플라즈마의 1.21용 분기입니다. 플라즈마에 대해 자세히 알고 싶다면 **[main 분기][main]** 를 확인해주세요.
